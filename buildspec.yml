@@ -3,5 +3,5 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "파이프라인 빌드 테스트"
+      - echo "파이프라인 테스트"
       - echo "파일 찾기 성공"
